@@ -1,12 +1,12 @@
 # enigma_turk_team
-https://www.youtube.com/watch?v=cvkdGrSfMTc
+# https://www.youtube.com/watch?v=cvkdGrSfMTc
 
-☪️_®ReMy_EnigmaTurk_TeaM_☪️
-             ★★31.10.2019★★
-        Enigma_Turk_TeaM v5.2 & REMY TEAM V.5.2 Active
-FreeServer 5.2 Pluginde yayınlanmıstır
-Web Stream & IPTV Online güncelleme hazır Script olarak eklenmiştir
-ReMy IPS_SCREEN_FHD_Skin eklenmiştir
+# ☪️_®ReMy_EnigmaTurk_TeaM_☪️
+#              ★★31.10.2019★★
+#         Enigma_Turk_TeaM v5.2 & REMY TEAM V.5.2 Active
+# FreeServer 5.2 Pluginde yayınlanmıstır
+# Web Stream & IPTV Online güncelleme hazır Script olarak eklenmiştir
+# ReMy IPS_SCREEN_FHD_Skin eklenmiştir
     REMY_TEAM DESTEK ALMAK ISTEYENLER
 ***ALTTAKI MAILDEN ULASABILIRLER***
 ***YENI CALISMALAR ICIN HOSTING VS GIDERLERIN KARSILANMASI ICIN
