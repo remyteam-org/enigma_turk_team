@@ -1,5 +1,5 @@
-# ☪️_®ReMy_EnigmaTurk_TeaM_☪️
-<li><a href="#author">author:ReMy</a></li>
+<li><a href="https://i.hizliresim.com/ohNlZP.jpg">☪️_®ReMy_EnigmaTurk_TeaM_☪️</a></li>
+<li><a href="https://i.hizliresim.com/68S6cZ.jpg">Made by ReMy</a></li>
 <li><a href="https://www.youtube.com/watch?v=cvkdGrSfMTc/" rel="nofollow">Enigma_Turk_TeaM youtube</a> - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.</li>
 <li><a href="https://i.hizliresim.com/R02yIj.jpg" rel="nofollow">ReMy_TeaM Plugin</a> - https://i.hizliresim.com/R02yIj.jpg</li>
 <li><a href="https://i.hizliresim.com/R02yIj.jpg">Enigma_Turk_TeaM v5.2 Active</a></li>   
