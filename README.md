@@ -4,14 +4,14 @@
 <li><a href="https://i.hizliresim.com/R02yIj.jpg" rel="nofollow">ReMy_TeaM Plugin</a> - https://i.hizliresim.com/R02yIj.jpg</li>
 <li><a href="https://i.hizliresim.com/R02yIj.jpg">Enigma_Turk_TeaM v5.2 Active</a></li>   
 <li><a href="https://i.hizliresim.com/Avmd3e.jpg">ReMy_M3u_Pro_IpTv Plugin Active</a></li>
-<li><a href="#PLUGINS">ReMy_oPenATV_Softcam_Panel Active</a></li>
-<li><a href="#PLUGINS">ReMy_F.Server v5.2 Plugin Active</a></li>
-<li><a href="#PLUGINS">ReMy_Satellite_Channel_Settings Active</a></li>
-<li><a href="#PLUGINS">ReMy_TeaM_FullKeys_Update Active</a></li>
-<li><a href="#PLUGINS">ReMy_RuDream_Premium_Backup_Lifetime</a></li>
-<li><a href="#PLUGINS">ReMy_MaTRiX_MoD_Backup</a></li>
-<li><a href="#PLUGINS">ReMy_Web Stream & IPTV Online update && upgrade</a></li>
-<li><a href="#PLUGINS">ReMy_IPS_SCREEN_FHD_Skin</a></li>
+<li><a href="https://i.hizliresim.com/RF7ZGI.jpg">ReMy_oPenATV_Softcam_Panel Active</a></li>
+<li><a href="https://i.hizliresim.com/Bdlcal.jpg">ReMy_F.Server v5.2 Plugin Active</a></li>
+<li><a href="https://i.hizliresim.com/GAHaNw.jpg">ReMy_Satellite_Channel_Settings Active</a></li>
+<li><a href="https://i.hizliresim.com/UZrLlq.jpg">ReMy_TeaM_FullKeys_Update Active</a></li>
+<li><a href="https://i.hizliresim.com/aPyCug.jpg">ReMy_RuDream_Premium_Backup_Lifetime</a></li>
+<li><a href="https://i.hizliresim.com/QFabHM.jpg">ReMy_MaTRiX_MoD_Backup</a></li>
+<li><a href="https://i.hizliresim.com/SoUV3A.jpg">ReMy_Web Stream & IPTV Online update && upgrade</a></li>
+<li><a href="https://i.hizliresim.com/crboPa.jpg">ReMy_IPS_SCREEN_FHD_Skin</a></li>
 <li><a href="#SUPPORTS">SUPPORTS</a></li>
 <li><a href="#SUPPORTS">ReMy IPTV Channels 40.000 Links, (TV, MOVIES, SERIES, FUNNY & XX CLIP_MOVIES)</a></li>
 <li><a href="#SUPPORTS">ReMy Satellite Ch Settings, 4K BoX MultiStream Channels (5.0w-12.5w)add</a></li>
