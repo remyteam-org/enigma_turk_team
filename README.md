@@ -2,10 +2,10 @@
 author:ReMy
 <li><a href="https://www.youtube.com/watch?v=cvkdGrSfMTc/" rel="nofollow">Enigma_Turk_TeaM v5.2</a> - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.</li>
 <li><a href="#PLUGINS">PLUGINS</a></li>
-<li><a href="#PLUGINS">Enigma_Turk_TeaM v5</a></li>2 Active</a></li>
+<li><a href="#PLUGINS">Enigma_Turk_TeaM v52 Active</a></li></a></li>
 <li><a href="#PLUGINS">ReMy_M3u_Pro_IpTv Plugin Active</a></li>
 <li><a href="#PLUGINS">ReMy_oPenATV_Softcam_Panel Active</a></li>
-<li><a href="#PLUGINS">ReMy_F</a></li>Server 5</a></li>2 Plugin Active</a></li>
+<li><a href="#PLUGINS">ReMy_F.Server v5.2 Plugin Active</a></li></a></li></a></li>
 <li><a href="#PLUGINS">ReMy_Satellite_Channel_Settings Active</a></li>
 <li><a href="#PLUGINS">ReMy_TeaM_FullKeys_Update Active</a></li>
 <li><a href="#PLUGINS">ReMy_RuDream_Premium_Backup_Lifetime</a></li>
