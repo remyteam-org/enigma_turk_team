@@ -2,16 +2,16 @@
 author:ReMy
 <li><a href="https://www.youtube.com/watch?v=cvkdGrSfMTc/" rel="nofollow">Enigma_Turk_TeaM v5.2</a> - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.</li>
 <li><a href="#PLUGINS">PLUGINS</a></li>
-        Enigma_Turk_TeaM v5.2 Active.
-        ReMy_M3u_Pro_IpTv Plugin Active.
-        ReMy_oPenATV_Softcam_Panel Active.
-        ReMy_F.Server 5.2 Plugin Active.
-        ReMy_Satellite_Channel_Settings Active.
-        ReMy_TeaM_FullKeys_Update Active.
-        ReMy_RuDream_Premium_Backup_Lifetime
-        ReMy_MaTRiX_MoD_Backup
-        ReMy_Web Stream & IPTV Online update && upgrade
-        ReMy_IPS_SCREEN_FHD_Skin.
+<li><a href="#PLUGINS">Enigma_Turk_TeaM v5</a></li>2 Active</a></li>
+<li><a href="#PLUGINS">ReMy_M3u_Pro_IpTv Plugin Active</a></li>
+<li><a href="#PLUGINS">ReMy_oPenATV_Softcam_Panel Active</a></li>
+<li><a href="#PLUGINS">ReMy_F</a></li>Server 5</a></li>2 Plugin Active</a></li>
+<li><a href="#PLUGINS">ReMy_Satellite_Channel_Settings Active</a></li>
+<li><a href="#PLUGINS">ReMy_TeaM_FullKeys_Update Active</a></li>
+<li><a href="#PLUGINS">ReMy_RuDream_Premium_Backup_Lifetime</a></li>
+<li><a href="#PLUGINS">ReMy_MaTRiX_MoD_Backup</a></li>
+<li><a href="#PLUGINS">ReMy_Web Stream & IPTV Online update && upgrade</a></li>
+<li><a href="#PLUGINS">ReMy_IPS_SCREEN_FHD_Skin</a></li>
 # ***ReMy IPTV Channels 40.000 Links, (TV, MOVIES, SERIES, FUNNY & XX CLIP_MOVIES)***
 # ***ReMy Satellite Ch Settings, 4K BoX MultiStream Channels (5.0w-12.5w)add**
 # ***ReMy_MultiStream Astra Configs added.***
