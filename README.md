@@ -1,5 +1,5 @@
 <li><a href="https://i.hizliresim.com/ohNlZP.jpg">☪️_®ReMy_EnigmaTurk_TeaM_☪️</a></li>
-<li><a href="#enigma2_teknik_servis@hotmail.com">https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwj0huunyMDoAhVCyqQKHWejBpQQFjAAegQIBhAB&url=https%3A%2F%2Fwww.hotmail.com%2F&usg=AOvVaw1DGJzSPW4QDhj38p2qI0CF</a></li>
+<li><a href="#mail">enigma2_teknik_servis@hotmail.com</a></li>
 <li><a href="https://i.hizliresim.com/68S6cZ.jpg">Made by ReMy</a></li>
 <li><a href="https://www.youtube.com/watch?v=cvkdGrSfMTc/" rel="nofollow">Enigma_Turk_TeaM youtube</a> - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.</li>
 <li><a href="https://i.hizliresim.com/R02yIj.jpg" rel="nofollow">ReMy_TeaM Plugin</a>
