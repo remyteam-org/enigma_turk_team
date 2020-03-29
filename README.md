@@ -24,7 +24,7 @@
 <li><a href="#SUPPORTS">IpTv Film & Channels Start-Stop(Time shift) feature added</a></li>
 <li><a href="#SUPPORTS">ReMyTeaM_4K MultiStream_Network_Broadcast:
 <li><a href="#SUPPORTS">Büyük m2 li Evlere, Sitelere, Otellere, İşletmelere v.s..Düşük maliyetli son teknoloji 4k ve multistream media, canlı tv v.s konularda yazılım ve donanım desteği...</a></li>
-# ____________________________________________________***®ReMy EnigmaTurk TeaM***____________________________________________________
+# ___________***®ReMy EnigmaTurk TeaM***___________
 <li><a href="#mail">enigma2_teknik_servis@hotmail.com</a></li>
 
 <p>A curated list of resources related to IPTV.</p>
