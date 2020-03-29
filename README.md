@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=cvkdGrSfMTc
 # ***Büyük m2 li Evlere, Sitelere, Otellere, İşletmelere v.s..Düşük maliyetli son teknoloji 4k ve multistream media, canlı tv v.s konularda yazılım ve donanım desteği...***
 # ____________________________________________________
 #               ***®ReMy EnigmaTurk TeaM***  
-# ***MAİL:enigma2_teknik_servis@hotmail.com***
+# ***mail: enigma2_teknik_servis@hotmail.com***
