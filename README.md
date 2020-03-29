@@ -1,6 +1,6 @@
 # Enigma_Turk_Team
 author:ReMy
-# https://www.youtube.com/watch?v=cvkdGrSfMTc
+https://www.youtube.com/watch?v=cvkdGrSfMTc
 
 # ☪️_®ReMy_EnigmaTurk_TeaM_☪️
 #              ★★31.10.2019★★
