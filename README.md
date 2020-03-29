@@ -26,7 +26,7 @@
 <li><a href="#SUPPORTS">Büyük m2 li Evlere, Sitelere, Otellere, İşletmelere v.s..Düşük maliyetli son teknoloji 4k ve multistream media, canlı tv v.s konularda yazılım ve donanım desteği...</a></li>
 #___________***®ReMy EnigmaTurk TeaM***___________
 <li><a href="#mail">enigma2_teknik_servis@hotmail.com</a></li>
-<p><a target="_blank" rel="noopener noreferrer" href="https://i.hizliresim.com/R02yIj.jpg"><img src="iptv_README.md%20at%20master%20%C2%B7%20iptv-org_iptv_dosyalar/preview.png" alt="VLC Network Panel" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://i.hizliresim.com/R02yIj.jpg"></a></p>
 
 
 <p>A curated list of resources related to IPTV.</p>
