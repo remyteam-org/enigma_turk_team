@@ -1,9 +1,10 @@
 # ☪️_®ReMy_EnigmaTurk_TeaM_☪️
-<g-emoji alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji>
 <li><a href="#author">author:ReMy</a></li>
 <li><a href="https://www.youtube.com/watch?v=cvkdGrSfMTc/" rel="nofollow">Enigma_Turk_TeaM v5.2</a> - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.</li>
 <li><a href="#PLUGINS">PLUGINS</a></li>
-<li><a href="#PLUGINS">Enigma_Turk_TeaM v5.2 Active</a></li>   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="Enigma_Turk_TeaM v5.2 Active">
+<li><a href="#PLUGINS">Enigma_Turk_TeaM v5.2 Active</a></li>   
+<p><a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="nofollow"><img src="iptv-org_awesome-iptv%20%20A%20curated%20list%20of%20resources%20related%20to%20IPTV_dosyalar/68747470733a2f2f6c6963656e7365627574746f6e732e6e65742f702f7a.png" alt="CC0" data-canonical-src="https://hizliresim.com/R02yIj][img]https://i.hizliresim.com/R02yIj.jpg" style="max-width:100%;"></a></p>
+<link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
 <li><a href="#PLUGINS">ReMy_M3u_Pro_IpTv Plugin Active</a></li>
 <li><a href="#PLUGINS">ReMy_oPenATV_Softcam_Panel Active</a></li>
 <li><a href="#PLUGINS">ReMy_F.Server v5.2 Plugin Active</a></li>
