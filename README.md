@@ -3,8 +3,7 @@
 <li><a href="https://www.youtube.com/watch?v=cvkdGrSfMTc/" rel="nofollow">Enigma_Turk_TeaM youtube</a> - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.</li>
 <li><a href="https://i.hizliresim.com/R02yIj.jpg" rel="nofollow">ReMy_TeaM Plugin</a> - https://i.hizliresim.com/R02yIj.jpg</li>
 <li><a href="https://i.hizliresim.com/R02yIj.jpg">Enigma_Turk_TeaM v5.2 Active</a></li>   
-<link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
-<li><a href="#PLUGINS">ReMy_M3u_Pro_IpTv Plugin Active</a></li>
+<li><a href="https://hizliresim.com/Avmd3e">ReMy_M3u_Pro_IpTv Plugin Active</a></li>
 <li><a href="#PLUGINS">ReMy_oPenATV_Softcam_Panel Active</a></li>
 <li><a href="#PLUGINS">ReMy_F.Server v5.2 Plugin Active</a></li>
 <li><a href="#PLUGINS">ReMy_Satellite_Channel_Settings Active</a></li>
