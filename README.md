@@ -26,12 +26,42 @@
 <li><a href="#SUPPORTS">Büyük m2 li Evlere, Sitelere, Otellere, İşletmelere v.s..Düşük maliyetli son teknoloji 4k ve multistream media, canlı tv v.s konularda yazılım ve donanım desteği...</a></li>
 #___________***®ReMy EnigmaTurk TeaM***___________
 <li><a href="#mail">enigma2_teknik_servis@hotmail.com</a></li>
-<p><a target="https://i.hizliresim.com/R02yIj.jpg" rel="https://i.hizliresim.com/R02yIj.jpg" href="https://i.hizliresim.com/R02yIj.jpg"></a></p>
 
 <li>
-<p>Infobar
+<p>☪️_®ReMy_EnigmaTurk_TeaM_☪️
 <a target="_blank" rel="noopener noreferrer" href="https://i.hizliresim.com/R02yIj.jpg"><img src="https://i.hizliresim.com/R02yIj.jpg" alt="alt text" data-canonical-src="https://i.hizliresim.com/R02yIj.jpg" style="max-width:100%;"></a></p>
 </li>
+
+<li>
+<p>☪️_®ReMy_M3u_Pro_IpTv Plugin_☪️
+<a target="_blank" rel="noopener noreferrer" href="https://i.hizliresim.com/7UNhKW.jpg"><img src="https://i.hizliresim.com/7UNhKW.jpg" alt="alt text" data-canonical-src="https://i.hizliresim.com/7UNhKW.jpg" style="max-width:100%;"></a></p>
+</li>
+
+<li>
+<p>☪️_®ReMy_M3u_Pro_IpTv Plugin_☪️
+<a target="_blank" rel="noopener noreferrer" href="https://i.hizliresim.com/lmP3Gp.jpg"><img src="https://i.hizliresim.com/lmP3Gp.jpg" alt="alt text" data-canonical-src="https://i.hizliresim.com/lmP3Gp.jpg" style="max-width:100%;"></a></p>
+</li>
+
+<li>
+<p>☪️_®ReMy_oPenATV_Softcam_Panel_☪️
+<a target="_blank" rel="noopener noreferrer" href="https://i.hizliresim.com/dye5Eg.jpg"><img src="https://i.hizliresim.com/dye5Eg.jpg" alt="alt text" data-canonical-src="https://i.hizliresim.com/dye5Eg.jpg" style="max-width:100%;"></a></p>
+</li>
+
+<li>
+<p>☪️_®ReMy_oPenATV_Softcam_Panel_☪️
+<a target="_blank" rel="noopener noreferrer" href="https://i.hizliresim.com/53A3Mm.jpg"><img src="https://i.hizliresim.com/53A3Mm.jpg" alt="alt text" data-canonical-src="https://i.hizliresim.com/53A3Mm.jpg" style="max-width:100%;"></a></p>
+</li>
+
+<li>
+<p>☪️_®ReMy_oPenATV_Softcam_Panel_☪️
+<a target="_blank" rel="noopener noreferrer" href="https://i.hizliresim.com/sCp6Hx.jpg"><img src="https://i.hizliresim.com/sCp6Hx.jpg" alt="alt text" data-canonical-src="https://i.hizliresim.com/sCp6Hx.jpg" style="max-width:100%;"></a></p>
+</li>
+
+<li>
+<p>☪️_®ReMy_F.Server v5.2 Plugin_☪️
+<a target="_blank" rel="noopener noreferrer" href="https://i.hizliresim.com/yAg077.jpg"><img src="https://i.hizliresim.com/yAg077.jpg" alt="alt text" data-canonical-src="https://i.hizliresim.com/yAg077.jpg" style="max-width:100%;"></a></p>
+</li>
+
 <p>A curated list of resources related to IPTV.</p>
 <h2><a id="user-content-contents" class="anchor" aria-hidden="true" href="#contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Contents</h2>
 <ul>
