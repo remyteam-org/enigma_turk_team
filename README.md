@@ -12,17 +12,18 @@ author:ReMy
 <li><a href="#PLUGINS">ReMy_MaTRiX_MoD_Backup</a></li>
 <li><a href="#PLUGINS">ReMy_Web Stream & IPTV Online update && upgrade</a></li>
 <li><a href="#PLUGINS">ReMy_IPS_SCREEN_FHD_Skin</a></li>
-# ***ReMy IPTV Channels 40.000 Links, (TV, MOVIES, SERIES, FUNNY & XX CLIP_MOVIES)***
-# ***ReMy Satellite Ch Settings, 4K BoX MultiStream Channels (5.0w-12.5w)add**
-# ***ReMy_MultiStream Astra Configs added.***
-# ***ReMy_FreeServer 5.2, added World Servers Links TO  ReMyTeaM DataBase***
-# ***100+ Gift Servers_Minimun 500+ Free &  +2000 Free Server ACTUAL***
-# ***SoftCam, Tandberg, BiSS, irdeto, PowerVu keys Support***
-# ***9.0E U.S.A ARMY AFN PAKETI POWERVU UPDATE***
-# ***WeB_Cams World, Los Angeles International AirPort & Live AirTraffics Info &+ v.s Adds to Channels***
-# ***IpTv Film & Channels Start-Stop(Time shift) feature added***
-# ***ReMyTeaM_4K MultiStream_Network_Broadcast:
-# ***Büyük m2 li Evlere, Sitelere, Otellere, İşletmelere v.s..Düşük maliyetli son teknoloji 4k ve multistream media, canlı tv v.s konularda yazılım ve donanım desteği...***
+<li><a href="#SUPPORTS">SUPPORTS</a></li>
+<li><a href="#SUPPORTS">ReMy IPTV Channels 40.000 Links, (TV, MOVIES, SERIES, FUNNY & XX CLIP_MOVIES)</a></li>
+<li><a href="#SUPPORTS">ReMy Satellite Ch Settings, 4K BoX MultiStream Channels (5.0w-12.5w)add</a></li>
+<li><a href="#SUPPORTS">ReMy_MultiStream Astra Configs added</a></li>
+<li><a href="#SUPPORTS">ReMy_FreeServer 5.2, added World Servers Links TO  ReMyTeaM DataBase</a></li>
+<li><a href="#SUPPORTS">100+ Gift Servers_Minimun 500+ Free &  +2000 Free Server ACTUAL</a></li>
+<li><a href="#SUPPORTS">SoftCam, Tandberg, BiSS, irdeto, PowerVu keys Support</a></li>
+<li><a href="#SUPPORTS">9.0E U.S.A ARMY AFN PAKETI POWERVU UPDATE</a></li>
+<li><a href="#SUPPORTS">WeB_Cams World, Los Angeles International AirPort & Live AirTraffics Info &+ v.s Adds to Channels</a></li>
+<li><a href="#SUPPORTS">IpTv Film & Channels Start-Stop(Time shift) feature added</a></li>
+<li><a href="#SUPPORTS">ReMyTeaM_4K MultiStream_Network_Broadcast:
+<li><a href="#SUPPORTS">Büyük m2 li Evlere, Sitelere, Otellere, İşletmelere v.s..Düşük maliyetli son teknoloji 4k ve multistream media, canlı tv v.s konularda yazılım ve donanım desteği...</a></li>
 # ____________________________________________________
               ***®ReMy EnigmaTurk TeaM***  
 # ***mail: enigma2_teknik_servis@hotmail.com***
