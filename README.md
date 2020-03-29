@@ -1,4 +1,5 @@
 # ☪️_®ReMy_EnigmaTurk_TeaM_☪️
+<g-emoji alias="palm_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f334.png">🌴</g-emoji>
 <li><a href="#author">author:ReMy</a></li>
 <li><a href="https://www.youtube.com/watch?v=cvkdGrSfMTc/" rel="nofollow">Enigma_Turk_TeaM v5.2</a> - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.</li>
 <li><a href="#PLUGINS">PLUGINS</a></li>
