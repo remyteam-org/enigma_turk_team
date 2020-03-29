@@ -1,18 +1,17 @@
 # ☪️_®ReMy_EnigmaTurk_TeaM_☪️
 author:ReMy
-https://www.youtube.com/watch?v=cvkdGrSfMTc
-
-#         Started:  ★★31.10.2017★★
-#         Enigma_Turk_TeaM v5.2 Active.
-#         ReMy_M3u_Pro_IpTv Plugin Active.
-#         ReMy_oPenATV_Softcam_Panel Active.
-#         ReMy_F.Server 5.2 Plugin Active.
-#         ReMy_Satellite_Channel_Settings Active.
-#         ReMy_TeaM_FullKeys_Update Active.
-#         ReMy_RuDream_Premium_Backup_Lifetime
-#         ReMy_MaTRiX_MoD_Backup
-#         ReMy_Web Stream & IPTV Online update && upgrade
-#         ReMy_IPS_SCREEN_FHD_Skin.
+<li><a href="https://www.youtube.com/watch?v=cvkdGrSfMTc/" rel="nofollow">Enigma_Turk_TeaM v5.2</a> - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.</li>
+<li><a href="#PLUGINS">PLUGINS</a></li>
+        Enigma_Turk_TeaM v5.2 Active.
+        ReMy_M3u_Pro_IpTv Plugin Active.
+        ReMy_oPenATV_Softcam_Panel Active.
+        ReMy_F.Server 5.2 Plugin Active.
+        ReMy_Satellite_Channel_Settings Active.
+        ReMy_TeaM_FullKeys_Update Active.
+        ReMy_RuDream_Premium_Backup_Lifetime
+        ReMy_MaTRiX_MoD_Backup
+        ReMy_Web Stream & IPTV Online update && upgrade
+        ReMy_IPS_SCREEN_FHD_Skin.
 # ***ReMy IPTV Channels 40.000 Links, (TV, MOVIES, SERIES, FUNNY & XX CLIP_MOVIES)***
 # ***ReMy Satellite Ch Settings, 4K BoX MultiStream Channels (5.0w-12.5w)add**
 # ***ReMy_MultiStream Astra Configs added.***
@@ -25,7 +24,7 @@ https://www.youtube.com/watch?v=cvkdGrSfMTc
 # ***ReMyTeaM_4K MultiStream_Network_Broadcast:
 # ***Büyük m2 li Evlere, Sitelere, Otellere, İşletmelere v.s..Düşük maliyetli son teknoloji 4k ve multistream media, canlı tv v.s konularda yazılım ve donanım desteği...***
 # ____________________________________________________
-#               ***®ReMy EnigmaTurk TeaM***  
+              ***®ReMy EnigmaTurk TeaM***  
 # ***mail: enigma2_teknik_servis@hotmail.com***
 
 <p>A curated list of resources related to IPTV.</p>
