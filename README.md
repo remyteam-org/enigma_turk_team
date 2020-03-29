@@ -1,11 +1,10 @@
 # ☪️_®ReMy_EnigmaTurk_TeaM_☪️
 <li><a href="#author">author:ReMy</a></li>
 <li><a href="https://www.youtube.com/watch?v=cvkdGrSfMTc/" rel="nofollow">Enigma_Turk_TeaM youtube</a> - Offers all premium UK, Ireland, Germany, Turkey, Arabic, USA and Canada Channels.</li>
-<li><a href="#PLUGINS">ReMy_TeaM Plugin</a></li>
-<li><a href="https://i.hizliresim.com/R02yIj.jpg" rel="nofollow">PLUGIN</a> - ReMy_TeaM Plugin</li>
+<li><a href="https://i.hizliresim.com/R02yIj.jpg" rel="nofollow">ReMy_TeaM Plugin</a> - ÖNİZLEME</li>
 
 <li><a href="#PLUGINS">Enigma_Turk_TeaM v5.2 Active</a></li>   
-<p><a href="https://i.hizliresim.com/R02yIj.jpg"" rel="nofollow"><img alt="ÖNZİLEME" data-canonical-src="https://i.hizliresim.com/R02yIj.jpg" style="max-width:100%;"></a></p>
+<p><a href="https://i.hizliresim.com/R02yIj.jpg"" rel="nofollow"><img alt="preview" data-canonical-src="https://i.hizliresim.com/R02yIj.jpg" style="max-width:100%;"></a></p>
 <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
 <li><a href="#PLUGINS">ReMy_M3u_Pro_IpTv Plugin Active</a></li>
 <li><a href="#PLUGINS">ReMy_oPenATV_Softcam_Panel Active</a></li>
