@@ -259,6 +259,35 @@ accepted.</p>
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
+  <div id="tradingview_fd841"></div>
+  <div class="tradingview-widget-copyright">TradingView'den <a href="https://tr.tradingview.com/symbols/BIST-RTALB/" rel="noopener" target="_blank"><span class="blue-text">RTALB Grafiği</span></a></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script type="text/javascript">
+  new TradingView.widget(
+  {
+  "width": 980,
+  "height": 610,
+  "symbol": "BIST:RTALB",
+  "interval": "1",
+  "timezone": "Europe/Istanbul",
+  "theme": "dark",
+  "style": "1",
+  "locale": "tr",
+  "toolbar_bg": "#f1f3f6",
+  "enable_publishing": false,
+  "allow_symbol_change": true,
+  "details": true,
+  "hotlist": true,
+  "calendar": true,
+  "container_id": "tradingview_fd841"
+}
+  );
+  </script>
+</div>
+<!-- TradingView Widget END -->
+
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
   <div class="tradingview-widget-copyright"><a href="https://tr.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Piyasa Verileri</span></a> TradingView'den</div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
