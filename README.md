@@ -1,3 +1,38 @@
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://tr.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Fiyatlar</span></a> TradingView'den</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-tickers.js" async>
+  {
+  "symbols": [
+    {
+      "proName": "OANDA:SPX500USD",
+      "title": "S&P 500"
+    },
+    {
+      "proName": "OANDA:NAS100USD",
+      "title": "Nasdaq 100"
+    },
+    {
+      "proName": "FX_IDC:EURUSD",
+      "title": "EUR/USD"
+    },
+    {
+      "description": "USD/TRY",
+      "proName": "FX:USDTRY"
+    },
+    {
+      "description": "EUR/TRY",
+      "proName": "FX:EURTRY"
+    }
+  ],
+  "colorTheme": "dark",
+  "isTransparent": false,
+  "locale": "tr"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
 <li><a href="https://i.hizliresim.com/ohNlZP.jpg">☪️_®ReMy_EnigmaTurk_TeaM_☪️</a></li>
 <li><a href="#mail">enigma2_teknik_servis@hotmail.com</a></li>
 <li><a href="https://i.hizliresim.com/68S6cZ.jpg">Made by ReMy</a></li>
