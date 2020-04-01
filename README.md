@@ -478,13 +478,13 @@ accepted.</p>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
   {
   "colorTheme": "dark",
-  "dateRange": "12m",
+  "dateRange": "1d",
   "showChart": true,
   "locale": "tr",
   "largeChartUrl": "",
   "isTransparent": false,
   "width": "400",
-  "height": "1260",
+  "height": "660",
   "plotLineColorGrowing": "rgba(25, 118, 210, 1)",
   "plotLineColorFalling": "rgba(25, 118, 210, 1)",
   "gridLineColor": "rgba(42, 46, 57, 1)",
@@ -547,10 +547,6 @@ accepted.</p>
         {
           "s": "BIST:XHOLD",
           "d": "BIST:XHOLDING&YATIRIM"
-        },
-        {
-          "s": "BIST",
-          "d": "BIST:XKMYA PETROL PLASTIK"
         }
       ],
       "originalTitle": "Indices"
