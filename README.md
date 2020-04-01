@@ -305,53 +305,26 @@ accepted.</p>
 </div>
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
-  <div id="tradingview_be5c4"></div>
-  <div class="tradingview-widget-copyright">TradingView'den <a href="https://tr.tradingview.com/symbols/BIST-XU100/" rel="noopener" target="_blank"><span class="blue-text">XU100 Grafiği</span></a></div>
+  <div id="tradingview_c8312"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
   new TradingView.widget(
   {
-  "autosize": true,
-  "symbol": "BIST:XU100",
-  "timezone": "Europe/Istanbul",
+  "width": 980,
+  "height": 610,
+  "symbol": "NASDAQ:AAPL",
+  "interval": "D",
+  "timezone": "Etc/UTC",
   "theme": "dark",
   "style": "1",
-  "locale": "tr",
+  "locale": "en",
   "toolbar_bg": "#f1f3f6",
-  "enable_publishing": true,
-  "hide_top_toolbar": true,
-  "hide_legend": true,
-  "range": "all",
-  "hide_side_toolbar": false,
-  "details": true,
-  "hotlist": true,
-  "calendar": true,
-  "news": [
-    "stocktwits",
-    "headlines"
-  ],
-  "studies": [
-    "studyADR@tv-basicstudies",
-    "AROON@tv-basicstudies",
-    "CMF@tv-basicstudies",
-    "ChaikinOscillator@tv-basicstudies",
-    "CorrelationCoefficient@tv-basicstudies",
-    "hullMA@tv-basicstudies",
-    "MACD@tv-basicstudies",
-    "MF@tv-basicstudies",
-    "MoonPhases@tv-basicstudies",
-    "PivotPointsHighLow@tv-basicstudies",
-    "PriceOsc@tv-basicstudies",
-    "SMIErgodicOscillator@tv-basicstudies"
-  ],
-  "show_popup_button": true,
-  "popup_width": "1000",
-  "popup_height": "650",
-  "no_referral_id": true,
-  "container_id": "tradingview_be5c4"
+  "enable_publishing": false,
+  "allow_symbol_change": true,
+  "container_id": "tradingview_c8312"
 }
   );
   </script>
 </div>
 <!-- TradingView Widget END -->
-
