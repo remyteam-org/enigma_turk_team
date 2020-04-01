@@ -470,3 +470,177 @@ accepted.</p>
   </script>
 </div>
 <!-- TradingView Widget END -->
+
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://tr.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Piyasa Verileri</span></a> TradingView'den</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+  {
+  "colorTheme": "dark",
+  "dateRange": "12m",
+  "showChart": true,
+  "locale": "tr",
+  "width": "100%",
+  "height": "100%",
+  "largeChartUrl": "",
+  "isTransparent": false,
+  "plotLineColorGrowing": "rgba(25, 118, 210, 1)",
+  "plotLineColorFalling": "rgba(25, 118, 210, 1)",
+  "gridLineColor": "rgba(42, 46, 57, 1)",
+  "scaleFontColor": "rgba(120, 123, 134, 1)",
+  "belowLineFillColorGrowing": "rgba(33, 150, 243, 0.12)",
+  "belowLineFillColorFalling": "rgba(33, 150, 243, 0.12)",
+  "symbolActiveColor": "rgba(33, 150, 243, 0.12)",
+  "tabs": [
+    {
+      "title": "Indices",
+      "symbols": [
+        {
+          "s": "BIST:XU100",
+          "d": "BIST:XU100"
+        },
+        {
+          "s": "BIST:XU030",
+          "d": "BIST:XU030"
+        },
+        {
+          "s": "BIST:XBANK",
+          "d": "BIST:XBANK"
+        },
+        {
+          "s": "BIST:XUSIN",
+          "d": "BIST:XUSINAI"
+        },
+        {
+          "s": "BIST:XUTEK",
+          "d": "BIST:XUTEKNOLOJI"
+        },
+        {
+          "s": "BIST:XBLSM",
+          "d": "BIST:XBLSM"
+        },
+        {
+          "s": "BIST:XILTM",
+          "d": "BIST:XILETISIM"
+        },
+        {
+          "s": "BIST:XGIDA",
+          "d": "BIST:XGIDA"
+        },
+        {
+          "s": "BIST:XELKT",
+          "d": "BIST:XELKTRIK"
+        },
+        {
+          "s": "BIST:XUMAL",
+          "d": "BIST:XUMALI"
+        },
+        {
+          "s": "BIST:XUHIZ",
+          "d": "BIST:XUHIZMET"
+        },
+        {
+          "s": "BIST:XMADN",
+          "d": "BIST:XMADEN"
+        },
+        {
+          "s": "BIST:XHOLD",
+          "d": "BIST:XHOLDING&YATIRIM"
+        },
+        {
+          "s": "BIST",
+          "d": "BIST:XKMYA PETROL PLASTIK"
+        }
+      ],
+      "originalTitle": "Indices"
+    },
+    {
+      "title": "Commodities",
+      "symbols": [
+        {
+          "s": "CME_MINI:ES1!",
+          "d": "E-Mini S&P"
+        },
+        {
+          "s": "CME:6E1!",
+          "d": "Euro"
+        },
+        {
+          "s": "COMEX:GC1!",
+          "d": "Gold"
+        },
+        {
+          "s": "NYMEX:CL1!",
+          "d": "Crude Oil"
+        },
+        {
+          "s": "NYMEX:NG1!",
+          "d": "Natural Gas"
+        },
+        {
+          "s": "CBOT:ZC1!",
+          "d": "Corn"
+        }
+      ],
+      "originalTitle": "Commodities"
+    },
+    {
+      "title": "Bonds",
+      "symbols": [
+        {
+          "s": "CME:GE1!",
+          "d": "Eurodollar"
+        },
+        {
+          "s": "CBOT:ZB1!",
+          "d": "T-Bond"
+        },
+        {
+          "s": "CBOT:UB1!",
+          "d": "Ultra T-Bond"
+        },
+        {
+          "s": "EUREX:FGBL1!",
+          "d": "Euro Bund"
+        },
+        {
+          "s": "EUREX:FBTP1!",
+          "d": "Euro BTP"
+        },
+        {
+          "s": "EUREX:FGBM1!",
+          "d": "Euro BOBL"
+        }
+      ],
+      "originalTitle": "Bonds"
+    },
+    {
+      "title": "Forex",
+      "symbols": [
+        {
+          "s": "FX:EURUSD"
+        },
+        {
+          "s": "FX:GBPUSD"
+        },
+        {
+          "s": "FX:USDJPY"
+        },
+        {
+          "s": "FX:USDCHF"
+        },
+        {
+          "s": "FX:AUDUSD"
+        },
+        {
+          "s": "FX:USDCAD"
+        }
+      ],
+      "originalTitle": "Forex"
+    }
+  ]
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
