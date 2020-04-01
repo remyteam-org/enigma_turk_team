@@ -305,14 +305,13 @@ accepted.</p>
 </div>
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
-  <div id="tradingview_a4a48"></div>
+  <div id="tradingview_be5c4"></div>
   <div class="tradingview-widget-copyright">TradingView'den <a href="https://tr.tradingview.com/symbols/BIST-XU100/" rel="noopener" target="_blank"><span class="blue-text">XU100 Grafiği</span></a></div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
   new TradingView.widget(
   {
-  "width": 980,
-  "height": 610,
+  "autosize": true,
   "symbol": "BIST:XU100",
   "timezone": "Europe/Istanbul",
   "theme": "dark",
@@ -320,13 +319,10 @@ accepted.</p>
   "locale": "tr",
   "toolbar_bg": "#f1f3f6",
   "enable_publishing": true,
-  "withdateranges": true,
+  "hide_top_toolbar": true,
+  "hide_legend": true,
   "range": "all",
   "hide_side_toolbar": false,
-  "allow_symbol_change": true,
-  "watchlist": [
-    "BIST:XU100"
-  ],
   "details": true,
   "hotlist": true,
   "calendar": true,
@@ -335,75 +331,27 @@ accepted.</p>
     "headlines"
   ],
   "studies": [
-    "ACCD@tv-basicstudies",
     "studyADR@tv-basicstudies",
     "AROON@tv-basicstudies",
-    "ATR@tv-basicstudies",
-    "AwesomeOscillator@tv-basicstudies",
-    "BB@tv-basicstudies",
-    "BollingerBandsR@tv-basicstudies",
-    "BollingerBandsWidth@tv-basicstudies",
     "CMF@tv-basicstudies",
     "ChaikinOscillator@tv-basicstudies",
-    "chandeMO@tv-basicstudies",
-    "ChoppinessIndex@tv-basicstudies",
-    "CCI@tv-basicstudies",
-    "CRSI@tv-basicstudies",
     "CorrelationCoefficient@tv-basicstudies",
-    "DetrendedPriceOscillator@tv-basicstudies",
-    "DM@tv-basicstudies",
-    "DONCH@tv-basicstudies",
-    "DoubleEMA@tv-basicstudies",
-    "EaseOfMovement@tv-basicstudies",
-    "EFI@tv-basicstudies",
-    "ENV@tv-basicstudies",
-    "FisherTransform@tv-basicstudies",
-    "HV@tv-basicstudies",
     "hullMA@tv-basicstudies",
-    "IchimokuCloud@tv-basicstudies",
-    "KLTNR@tv-basicstudies",
-    "KST@tv-basicstudies",
-    "LinearRegression@tv-basicstudies",
     "MACD@tv-basicstudies",
-    "MOM@tv-basicstudies",
     "MF@tv-basicstudies",
     "MoonPhases@tv-basicstudies",
-    "MASimple@tv-basicstudies",
-    "MAExp@tv-basicstudies",
-    "MAWeighted@tv-basicstudies",
-    "OBV@tv-basicstudies",
-    "PSAR@tv-basicstudies",
     "PivotPointsHighLow@tv-basicstudies",
-    "PivotPointsStandard@tv-basicstudies",
     "PriceOsc@tv-basicstudies",
-    "PriceVolumeTrend@tv-basicstudies",
-    "ROC@tv-basicstudies",
-    "RSI@tv-basicstudies",
-    "VigorIndex@tv-basicstudies",
-    "VolatilityIndex@tv-basicstudies",
-    "SMIErgodicIndicator@tv-basicstudies",
-    "SMIErgodicOscillator@tv-basicstudies",
-    "Stochastic@tv-basicstudies",
-    "StochasticRSI@tv-basicstudies",
-    "TripleEMA@tv-basicstudies",
-    "Trix@tv-basicstudies",
-    "UltimateOsc@tv-basicstudies",
-    "VSTOP@tv-basicstudies",
-    "Volume@tv-basicstudies",
-    "VWAP@tv-basicstudies",
-    "MAVolumeWeighted@tv-basicstudies",
-    "WilliamR@tv-basicstudies",
-    "WilliamsAlligator@tv-basicstudies",
-    "WilliamsFractal@tv-basicstudies",
-    "ZigZag@tv-basicstudies"
+    "SMIErgodicOscillator@tv-basicstudies"
   ],
   "show_popup_button": true,
   "popup_width": "1000",
   "popup_height": "650",
   "no_referral_id": true,
-  "container_id": "tradingview_a4a48"
+  "container_id": "tradingview_be5c4"
 }
   );
   </script>
 </div>
 <!-- TradingView Widget END -->
+
