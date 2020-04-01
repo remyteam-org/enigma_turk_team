@@ -1,7 +1,17 @@
-<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.5/lib/darkmode-js.min.js"></script>
-<script>
-  new Darkmode().showWidget();
-</script>
+.darkmode--activated p, .darkmode--activated li {
+  color: #000;
+}
+
+.button {
+  isolation: isolate;
+}
+
+.darkmode--activated .logo {
+  mix-blend-mode: difference;
+}
+
+<span class="darkmode-ignore">😬<span>
+  
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
