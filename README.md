@@ -1,6 +1,6 @@
 <button id="togBut" data-target="mydiv" data-mode="on">Toggle Night Mode</button>
 
-<div id="mydiv"><p>Wmaracı falan JonnedRyan falan. Gece modu deneme birkiüç Lorem Ipsum.Wmaracı falan JonnedRyan falan. Gece modu deneme birkiüç Lorem Ipsum.Wmaracı falan JonnedRyan falan. Gece modu deneme birkiüç Lorem Ipsum.Wmaracı falan JonnedRyan falan. Gece modu deneme birkiüç Lorem Ipsum.</p></div>
+<div id="mydiv"><p>
 
 
   
@@ -651,3 +651,4 @@ accepted.</p>
   </script>
 </div>
 <!-- TradingView Widget END -->
+</p></div>
