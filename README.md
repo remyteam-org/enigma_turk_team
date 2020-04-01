@@ -1,6 +1,63 @@
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://tr.tradingview.com" rel="noopener" target="_blank"><span class="blue-text"> Bilgi Bandı</span></a>, TradingView tarafından</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {
+  "symbols": [
+    {
+      "proName": "OANDA:SPX500USD",
+      "title": "S&P 500"
+    },
+    {
+      "proName": "OANDA:NAS100USD",
+      "title": "Nasdaq 100"
+    },
+    {
+      "proName": "FX_IDC:EURUSD",
+      "title": "EUR/USD"
+    },
+    {
+      "proName": "BITSTAMP:BTCUSD",
+      "title": "BTC/USD"
+    },
+    {
+      "proName": "BITSTAMP:ETHUSD",
+      "title": "ETH/USD"
+    },
+    {
+      "description": "EUR/TRY",
+      "proName": "FX_IDC:EURTRY"
+    },
+    {
+      "description": "USD/TRY",
+      "proName": "FX_IDC:USDTRY"
+    },
+    {
+      "description": "BIST:XU100",
+      "proName": "BIST:XU100"
+    },
+    {
+      "description": "BIST:XU030D1!",
+      "proName": "BIST:XU030D1!"
+    },
+    {
+      "description": "BIST:XU030DE1!",
+      "proName": "BIST:XU030DE1!"
+    }
+  ],
+  "colorTheme": "dark",
+  "isTransparent": false,
+  "displayMode": "adaptive",
+  "locale": "tr"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
   <div class="tradingview-widget-copyright"><a href="https://tr.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Fiyatlar</span></a> TradingView'den</div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-tickers.js" async>
   {
