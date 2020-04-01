@@ -445,6 +445,7 @@ accepted.</p>
   "width": "770",
   "height": "400",
   "currencies": [
+    "TRY",
     "EUR",
     "USD",
     "JPY",
@@ -454,7 +455,6 @@ accepted.</p>
     "CAD",
     "NZD",
     "CNY",
-    "TRY",
     "SEK",
     "NOK",
     "DKK",
