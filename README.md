@@ -166,44 +166,26 @@ accepted.</p>
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
-  <div id="tradingview_d9773"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BIST-XU100/" rel="noopener" target="_blank"><span class="blue-text">XU100 Chart</span></a> by TradingView</div>
+  <div id="tradingview_c25b0"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
   new TradingView.widget(
   {
-  "autosize": true,
-  "symbol": "BIST:XU100",
+  "width": 980,
+  "height": 610,
+  "symbol": "NASDAQ:AAPL",
   "interval": "D",
-  "timezone": "Europe/Istanbul",
+  "timezone": "Etc/UTC",
   "theme": "dark",
   "style": "1",
   "locale": "en",
   "toolbar_bg": "#f1f3f6",
   "enable_publishing": false,
   "allow_symbol_change": true,
-  "details": true,
-  "container_id": "tradingview_d9773"
+  "container_id": "tradingview_c25b0"
 }
   );
-  </script>
-</div>
-<!-- TradingView Widget END -->
-<!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BIST-RTALB/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for RTALB</span></a> by TradingView</div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
-  {
-  "interval": "1m",
-  "width": 425,
-  "isTransparent": false,
-  "height": 450,
-  "symbol": "BIST:RTALB",
-  "showIntervalTabs": true,
-  "locale": "en",
-  "colorTheme": "dark"
-}
   </script>
 </div>
 <!-- TradingView Widget END -->
