@@ -256,8 +256,11 @@
 <p>Please feel free to make any changes to this list. As long as this 
 changes are related to the topic of IPTV they are most likely be 
 accepted.</p>
+<li>
+<p>☪️_Bloomberg TV_☪️
+<a target="_blank" rel="noopener noreferrer" href="https://www.bloomberg.com/c988137c-89ba-4b13-9be7-0d6be97e7401"><img src="https://www.bloomberg.com/c988137c-89ba-4b13-9be7-0d6be97e7401" alt="alt text" data-canonical-src="https://www.bloomberg.com/c988137c-89ba-4b13-9be7-0d6be97e7401" style="max-width:100%;"></a></p>
+</li>
 
-<li><a href="https://www.bloomberg.com/c988137c-89ba-4b13-9be7-0d6be97e7401" rel="nofollow">Bloomberg TV</a>
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="tradingview_fd841"></div>
