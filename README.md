@@ -303,26 +303,27 @@ accepted.</p>
 }
   </script>
 </div>
+<!-- TradingView Widget END -->
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
-  <div id="tradingview_c8312"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
+  <div id="tradingview_d9773"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BIST-XU100/" rel="noopener" target="_blank"><span class="blue-text">XU100 Chart</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
   new TradingView.widget(
   {
-  "width": 980,
-  "height": 610,
-  "symbol": "NASDAQ:AAPL",
+  "autosize": true,
+  "symbol": "BIST:XU100",
   "interval": "D",
-  "timezone": "Etc/UTC",
+  "timezone": "Europe/Istanbul",
   "theme": "dark",
   "style": "1",
   "locale": "en",
   "toolbar_bg": "#f1f3f6",
   "enable_publishing": false,
   "allow_symbol_change": true,
-  "container_id": "tradingview_c8312"
+  "details": true,
+  "container_id": "tradingview_d9773"
 }
   );
   </script>
