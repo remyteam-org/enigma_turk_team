@@ -90,6 +90,11 @@
   </script>
 </div>
 <!-- TradingView Widget END -->
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
+  {
+  "width": 1280,
+  "height": 720,
+  "symbolsGroups": [
 <li><a href="https://i.hizliresim.com/ohNlZP.jpg">☪️_®ReMy_EnigmaTurk_TeaM_☪️</a></li>
 <li><a href="#mail">enigma2_teknik_servis@hotmail.com</a></li>
 <li><a href="https://i.hizliresim.com/68S6cZ.jpg">Made by ReMy</a></li>
@@ -255,7 +260,13 @@
 <p>Please feel free to make any changes to this list. As long as this 
 changes are related to the topic of IPTV they are most likely be 
 accepted.</p>
-
+  ],
+  "colorTheme": "dark",
+  "isTransparent": false,
+  "locale": "tr"
+}
+  </script>
+</div>
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
