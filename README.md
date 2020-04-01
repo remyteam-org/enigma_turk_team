@@ -1,16 +1,8 @@
-.darkmode--activated p, .darkmode--activated li {
-  color: #000;
-}
+<button id="togBut" data-target="mydiv" data-mode="on">Toggle Night Mode</button>
 
-.button {
-  isolation: isolate;
-}
+<div id="mydiv"><p>Wmaracı falan JonnedRyan falan. Gece modu deneme birkiüç Lorem Ipsum.Wmaracı falan JonnedRyan falan. Gece modu deneme birkiüç Lorem Ipsum.Wmaracı falan JonnedRyan falan. Gece modu deneme birkiüç Lorem Ipsum.Wmaracı falan JonnedRyan falan. Gece modu deneme birkiüç Lorem Ipsum.</p></div>
 
-.darkmode--activated .logo {
-  mix-blend-mode: difference;
-}
 
-<span class="darkmode-ignore">😬<span>
   
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
