@@ -436,4 +436,52 @@ accepted.</p>
 </div>
 <!-- TradingView Widget END -->
 
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://tr.tradingview.com/markets/currencies/forex-cross-rates/" rel="noopener" target="_blank"><span class="blue-text">Forex Oranları</span></a> TradingView'den</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-forex-cross-rates.js" async>
+  {
+  "width": "100%",
+  "height": "100%",
+  "currencies": [
+    "EUR",
+    "USD",
+    "JPY",
+    "GBP",
+    "CHF",
+    "AUD",
+    "CAD",
+    "NZD",
+    "CNY",
+    "TRY",
+    "SEK",
+    "NOK",
+    "DKK",
+    "ZAR",
+    "HKD",
+    "SGD",
+    "THB",
+    "MXN",
+    "IDR",
+    "KRW",
+    "PLN",
+    "ISK",
+    "KWD",
+    "PHP",
+    "MYR",
+    "INR",
+    "TWD",
+    "SAR",
+    "RUB",
+    "ILS"
+  ],
+  "isTransparent": false,
+  "colorTheme": "dark",
+  "locale": "tr"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+
 
