@@ -417,3 +417,23 @@ accepted.</p>
   </script>
 </div>
 <!-- TradingView Widget END -->
+
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://tr.tradingview.com/markets/currencies/economic-calendar/" rel="noopener" target="_blank"><span class="blue-text">Ekonomik Takvim</span></a> TradingView'den</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
+  {
+  "colorTheme": "dark",
+  "isTransparent": false,
+  "width": "510",
+  "height": "600",
+  "locale": "tr",
+  "importanceFilter": "-1,0,1",
+  "currencyFilter": "TRL"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+
+
