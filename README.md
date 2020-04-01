@@ -257,6 +257,11 @@
 changes are related to the topic of IPTV they are most likely be 
 accepted.</p>
 
+<iframe frameborder="0" scrolling="auto" height="650" width="545" allowtransparency="true" marginwidth="0" marginheight="0" src="https://ssltools.forexprostools.com/fibonacci-calculator/index.php?force_lang=10"></iframe><br /><div style="width:450"><span style="float:left"><span style="font-size: 11px;color: #333333;text-decoration: none;">Fibonacci Hesap Makinesi <a href="https://tr.investing.com/" rel="nofollow" target="_blank" style="font-size: 11px;color: #06529D; font-weight: bold;" class="underline_link">Investing.com Türkiye</a> tarafından sağlanmaktadır.</span></span></div>
+
+<iframe frameborder="0" scrolling="auto" height="600" width="543" allowtransparency="true" marginwidth="0" marginheight="0" src="https://ssltools.forexprostools.com/pivot-calculator/index.php?force_lang=10"></iframe><br /><div style="width:450"><span style="float:left"><span style="font-size: 11px;color: #333333;text-decoration: none;">Pivot Hesaplayıcı <a href="https://tr.investing.com/" rel="nofollow" target="_blank" style="font-size: 11px;color: #06529D; font-weight: bold;" class="underline_link">Investing.com Türkiye</a> tarafından sağlanmaktadır.</span></span></div>
+
+
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="tradingview_fd841"></div>
