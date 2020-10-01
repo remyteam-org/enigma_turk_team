@@ -92,7 +92,7 @@
   </script>
 </div>
 <!-- TradingView Widget END -->
-
+<li><a href="https://i.hizliresim.com/U6yAXb.png">Made by ReMy_enigma_turk_team</a></li>
 <li><a href="https://i.hizliresim.com/ohNlZP.jpg">☪️_®ReMy_EnigmaTurk_TeaM_☪️</a></li>
 <li><a href="#mail">enigma2_teknik_servis@hotmail.com</a></li>
 <li><a href="https://i.hizliresim.com/68S6cZ.jpg">Made by ReMy</a></li>
@@ -262,9 +262,6 @@ accepted.</p>
 <iframe frameborder="0" scrolling="auto" height="650" width="545" allowtransparency="true" marginwidth="0" marginheight="0" src="https://ssltools.forexprostools.com/fibonacci-calculator/index.php?force_lang=10"></iframe><br /><div style="width:450"><span style="float:left"><span style="font-size: 11px;color: #333333;text-decoration: none;">Fibonacci Hesap Makinesi <a href="https://tr.investing.com/" rel="nofollow" target="_blank" style="font-size: 11px;color: #06529D; font-weight: bold;" class="underline_link">Investing.com Türkiye</a> tarafından sağlanmaktadır.</span></span></div>
 
 <iframe frameborder="0" scrolling="auto" height="600" width="543" allowtransparency="true" marginwidth="0" marginheight="0" src="https://ssltools.forexprostools.com/pivot-calculator/index.php?force_lang=10"></iframe><br /><div style="width:450"><span style="float:left"><span style="font-size: 11px;color: #333333;text-decoration: none;">Pivot Hesaplayıcı <a href="https://tr.investing.com/" rel="nofollow" target="_blank" style="font-size: 11px;color: #06529D; font-weight: bold;" class="underline_link">Investing.com Türkiye</a> tarafından sağlanmaktadır.</span></span></div>
-
-
-<li><a href="https://i.hizliresim.com/U6yAXb.png">Made by ReMy_enigma_turk_team</a></li>
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
