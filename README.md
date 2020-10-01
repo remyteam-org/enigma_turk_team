@@ -92,7 +92,7 @@
   </script>
 </div>
 <!-- TradingView Widget END -->
-<li><a href="https://i.hizliresim.com/U6yAXb.png">☪️_®ReMy_EnigmaTurk_TeaM_☪️</a></li>
+
 <li><a href="https://i.hizliresim.com/ohNlZP.jpg">☪️_®ReMy_EnigmaTurk_TeaM_☪️</a></li>
 <li><a href="#mail">enigma2_teknik_servis@hotmail.com</a></li>
 <li><a href="https://i.hizliresim.com/68S6cZ.jpg">Made by ReMy</a></li>
@@ -253,15 +253,20 @@
 <li><a href="https://www.npmjs.com/package/iptv-checker" rel="nofollow">IPTV Checker</a> — IPTV playlists checker for Node.js</li>
 <li><a href="https://streamtest.in/" rel="nofollow">Streamtest</a> - Free and easy to use web based stream tester utility.</li>
 <li><a href="https://github.com/huxuan/iptv-m3u-filter">IPTV M3U Filter</a> - A script to filter IPTV m3u playlists according to customized criteria.</li>
+
+
+
 </ul>
 <h2><a id="user-content-contribution" class="anchor" aria-hidden="true" href="#contribution"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>ReMy_TeaM Stock Market - Business</h2>
 <p>Please feel free to make any changes to this list. As long as this 
 changes are related to the topic of STOCK they are most likely be 
 accepted.</p>
 
-<iframe frameborder="0" scrolling="auto" height="650" width="545" allowtransparency="true" marginwidth="0" marginheight="0" src="https://ssltools.forexprostools.com/fibonacci-calculator/index.php?force_lang=10"></iframe><br /><div style="width:450"><span style="float:left"><span style="font-size: 11px;color: #333333;text-decoration: none;">Fibonacci Hesap Makinesi <a href="https://tr.investing.com/" rel="nofollow" target="_blank" style="font-size: 11px;color: #06529D; font-weight: bold;" class="underline_link">Investing.com Türkiye</a> tarafından sağlanmaktadır.</span></span></div>
 
-<iframe frameborder="0" scrolling="auto" height="600" width="543" allowtransparency="true" marginwidth="0" marginheight="0" src="https://ssltools.forexprostools.com/pivot-calculator/index.php?force_lang=10"></iframe><br /><div style="width:450"><span style="float:left"><span style="font-size: 11px;color: #333333;text-decoration: none;">Pivot Hesaplayıcı <a href="https://tr.investing.com/" rel="nofollow" target="_blank" style="font-size: 11px;color: #06529D; font-weight: bold;" class="underline_link">Investing.com Türkiye</a> tarafından sağlanmaktadır.</span></span></div>
+<li>
+<p>☪️_®ReMy_RTALB_TREND_☪️
+<a target="_blank" rel="noopener noreferrer" href="https://i.hizliresim.com/U6yAXb.png"><img src="https://i.hizliresim.com/U6yAXb.png" alt="alt text" data-canonical-src="https://i.hizliresim.com/U6yAXb.png" style="max-width:100%;"></a></p>
+</li>
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
