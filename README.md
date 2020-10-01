@@ -92,7 +92,7 @@
   </script>
 </div>
 <!-- TradingView Widget END -->
-<li><a href="https://i.hizliresim.com/U6yAXb.png">Made by ReMy_enigma_turk_team</a></li>
+<li><a href="https://i.hizliresim.com/U6yAXb.png">☪️_®ReMy_EnigmaTurk_TeaM_☪️</a></li>
 <li><a href="https://i.hizliresim.com/ohNlZP.jpg">☪️_®ReMy_EnigmaTurk_TeaM_☪️</a></li>
 <li><a href="#mail">enigma2_teknik_servis@hotmail.com</a></li>
 <li><a href="https://i.hizliresim.com/68S6cZ.jpg">Made by ReMy</a></li>
