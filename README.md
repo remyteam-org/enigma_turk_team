@@ -265,7 +265,7 @@ accepted.</p>
 
 <li>
 <p>☪️_®ReMy_RTALB_TREND_☪️
-<a target="_blank" rel="noopener noreferrer" href="https://i.hizliresim.com/U6yAXb.png"><img src="https://i.hizliresim.com/U6yAXb.png" alt="alt text" data-canonical-src="https://i.hizliresim.com/U6yAXb.png" style="max-width:100%;"></a></p>
+<a target="_blank" rel="noopener noreferrer" href="https://i.hizliresim.com/OVzF8I.png"><img src="https://i.hizliresim.com/OVzF8I.png" alt="alt text" data-canonical-src="https://i.hizliresim.com/OVzF8I.png" style="max-width:100%;"></a></p>
 </li>
 
 <!-- TradingView Widget BEGIN -->
