@@ -270,7 +270,7 @@ accepted.</p>
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
-  <div id="tradingview_8e7da"></div>
+  <div id="tradingview_5c599"></div>
   <div class="tradingview-widget-copyright">TradingView'den <a href="https://tr.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Grafiği</span></a></div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
@@ -280,23 +280,18 @@ accepted.</p>
   "height": 610,
   "symbol": "BIST:XU100",
   "interval": "D",
-  "timezone": "Etc/UTC",
+  "timezone": "Europe/Istanbul",
   "theme": "dark",
   "style": "1",
   "locale": "tr",
   "toolbar_bg": "#f1f3f6",
   "enable_publishing": false,
   "allow_symbol_change": true,
-  "container_id": "tradingview_8e7da"
+  "container_id": "tradingview_5c599"
 }
-  );
-  </script>
-</div>
+
 <!-- TradingView Widget END -->
-  );
-  </script>
-</div>
-<!-- TradingView Widget END -->
+
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
