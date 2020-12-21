@@ -270,8 +270,8 @@ accepted.</p>
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
-  <div id="tradingview_5c599"></div>
-  <div class="tradingview-widget-copyright">TradingView'den <a href="https://tr.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Grafiği</span></a></div>
+  <div id="tradingview_12f2c"></div>
+  <div class="tradingview-widget-copyright">TradingView'den <a href="https://tr.tradingview.com/symbols/BIST-XU100/" rel="noopener" target="_blank"><span class="blue-text">XU100 Grafiği</span></a></div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
   new TradingView.widget(
@@ -279,19 +279,30 @@ accepted.</p>
   "width": 980,
   "height": 610,
   "symbol": "BIST:XU100",
-  "interval": "D",
   "timezone": "Europe/Istanbul",
   "theme": "dark",
   "style": "1",
   "locale": "tr",
   "toolbar_bg": "#f1f3f6",
   "enable_publishing": false,
+  "withdateranges": true,
+  "range": "YTD",
+  "hide_side_toolbar": false,
   "allow_symbol_change": true,
-  "container_id": "tradingview_5c599"
+  "details": true,
+  "hotlist": true,
+  "calendar": true,
+  "studies": [
+    "MACD@tv-basicstudies",
+    "PSAR@tv-basicstudies",
+    "PivotPointsStandard@tv-basicstudies"
+  ],
+  "container_id": "tradingview_12f2c"
 }
-
+  );
+  </script>
+</div>
 <!-- TradingView Widget END -->
-
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
