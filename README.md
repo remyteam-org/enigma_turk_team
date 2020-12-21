@@ -278,7 +278,7 @@ accepted.</p>
   {
   "width": 980,
   "height": 610,
-  "symbol": "NASDAQ:AAPL",
+  "symbol": "BIST:XU100",
   "interval": "D",
   "timezone": "Etc/UTC",
   "theme": "dark",
