@@ -271,14 +271,14 @@ accepted.</p>
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="tradingview_fd841"></div>
-  <div class="tradingview-widget-copyright">TradingView'den <a href="https://tr.tradingview.com/symbols/BIST-RTALB/" rel="noopener" target="_blank"><span class="blue-text">RTALB Grafiği</span></a></div>
+  <div class="tradingview-widget-copyright">TradingView'den <a href="https://tr.tradingview.com/symbols/BIST-100/" rel="noopener" target="_blank"><span class="blue-text">RTALB Grafiği</span></a></div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
   new TradingView.widget(
   {
   "width": 980,
   "height": 610,
-  "symbol": "BIST:RTALB",
+  "symbol": "BIST:100",
   "interval": "1",
   "timezone": "Europe/Istanbul",
   "theme": "dark",
