@@ -264,14 +264,14 @@ accepted.</p>
 
 
 <li>
-<p>☪️_®ReMy_RTALB_TREND_☪️
-<a target="_blank" rel="noopener noreferrer" href="https://tr.tradingview.com/chart/8GJ5ySxV/"><img src="https://tr.tradingview.com/chart/8GJ5ySxV/" alt="alt text" data-canonical-src="https://tr.tradingview.com/chart/8GJ5ySxV/" style="max-width:100%;"></a></p>
+<p>☪️_®ReMy_BIST-XU100_☪️
+<a target="_blank" rel="noopener noreferrer" href="https://tr.tradingview.com/chart/8GJ5ySxV/"><img src="https://tr.tradingview.com/chart/8GJ5ySxV/" alt="alt text" data-canonical-src="https://tr.tradingview.com/symbols/BIST-XU100/" style="max-width:100%;"></a></p>
 </li>
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div id="tradingview_fd841"></div>
-  <div class="tradingview-widget-copyright">TradingView'den <a href="https://tr.tradingview.com/symbols/BIST-100/" rel="noopener" target="_blank"><span class="blue-text">RTALB Grafiği</span></a></div>
+  <div class="tradingview-widget-copyright">TradingView'den <a href="https://tr.tradingview.com/symbols/BIST-XU100/" rel="noopener" target="_blank"><span class="blue-text">RTALB Grafiği</span></a></div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
   new TradingView.widget(
