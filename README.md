@@ -270,7 +270,7 @@ accepted.</p>
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
-  <div id="tradingview_12f2c"></div>
+  <div id="tradingview_bf0e9"></div>
   <div class="tradingview-widget-copyright">TradingView'den <a href="https://tr.tradingview.com/symbols/BIST-XU100/" rel="noopener" target="_blank"><span class="blue-text">XU100 Grafiği</span></a></div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
@@ -294,10 +294,9 @@ accepted.</p>
   "calendar": true,
   "studies": [
     "MACD@tv-basicstudies",
-    "PSAR@tv-basicstudies",
-    "PivotPointsStandard@tv-basicstudies"
+    "PSAR@tv-basicstudies"
   ],
-  "container_id": "tradingview_12f2c"
+  "container_id": "tradingview_bf0e9"
 }
   );
   </script>
